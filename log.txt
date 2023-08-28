@@ -1,0 +1,66 @@
+04:20:35 INFO Browser : chrome
+04:20:35 INFO ====== WebDriver manager ======
+04:20:35 INFO Get LATEST chromedriver version for google-chrome
+04:20:35 INFO Get LATEST chromedriver version for google-chrome
+04:20:35 INFO There is no [mac64] chromedriver "116.0.5845.110" for browser google-chrome "116.0.5845.110" in cache
+04:20:35 INFO Get LATEST chromedriver version for google-chrome
+04:20:35 INFO WebDriver version 116.0.5845.96 selected
+04:20:35 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/mac-x64/chromedriver-mac-x64.zip
+04:20:35 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/mac-x64/chromedriver-mac-x64.zip
+04:20:35 INFO Driver downloading response is 200
+04:20:36 INFO Get LATEST chromedriver version for google-chrome
+04:20:36 INFO Driver has been saved in cache [/Users/ksheleh/.wdm/drivers/chromedriver/mac64/116.0.5845.110]
+04:20:37 INFO Test1 starting
+04:20:39 INFO Send test to element //*[@id="login"]/div[1]/label/input
+04:20:40 INFO Send test to element //*[@id="login"]/div[2]/label/input
+04:20:40 INFO Click login button
+04:20:41 INFO We found test 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+04:20:41 INFO Test2 starting
+04:20:41 INFO Send firstname to element //*[@id="login"]/div[1]/label/input
+04:20:41 INFO Send 342f5c77ed to element //*[@id="login"]/div[2]/label/input
+04:20:41 INFO Click login button
+04:20:43 INFO We found text Hello, firstname in auth field //*[@id="app"]/main/nav/ul/li[3]/a
+04:20:43 INFO Test3 starting
+04:20:43 INFO Add post
+04:20:44 INFO Fill post Title3 Description3 Content3
+04:20:45 INFO Fill title Title3
+04:20:46 INFO Fill description Description3
+04:20:47 INFO Fill content Content3
+04:20:48 INFO Checking new post
+04:20:49 INFO Test4 starting
+04:20:50 INFO Add post
+04:20:51 INFO Fill post Title4 Description4 None
+04:20:52 INFO Fill title Title4
+04:20:53 INFO Fill description Description4
+04:20:54 INFO Checking new post
+04:20:55 INFO Test5 starting
+04:20:55 INFO Add post
+04:20:56 INFO Fill post Title5 None Content5
+04:20:57 INFO Fill title Title5
+04:20:58 INFO Fill content Content5
+04:21:00 INFO Checking new post
+04:21:01 INFO Test6 starting
+04:21:01 INFO Add post
+04:21:02 INFO Fill post Title6 None None
+04:21:03 INFO Fill title Title6
+04:21:04 INFO Checking new post
+04:21:05 INFO Test7 starting
+04:21:05 INFO Fill contact us form : Name7 name7@email.com Content7
+04:21:06 INFO Fill your name Name7
+04:21:07 INFO Fill your email name7@email.com
+04:21:09 INFO Fill content Content7
+04:21:10 INFO Test8 starting
+04:21:10 INFO Fill contact us form : Name8 name8@email.com None
+04:21:11 INFO Fill your name Name8
+04:21:12 INFO Fill your email name8@email.com
+04:21:14 INFO Test9 starting
+04:21:14 INFO Fill contact us form : Name9 None Content9
+04:21:15 INFO Fill your name Name9
+04:21:16 INFO Fill content Content9
+04:21:18 INFO Test10 starting
+04:21:18 INFO Fill contact us form : Name10 None None
+04:21:19 INFO Fill your name Name10
+04:21:20 INFO Test11 starting
+04:21:20 INFO Fill contact us form : Name11 Email11 None
+04:21:21 INFO Fill your name Name11
+04:21:23 INFO Fill your email Email11
